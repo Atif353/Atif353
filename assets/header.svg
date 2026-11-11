@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Atif Mubashar — Full Stack Software Engineer</title>
+<desc id="desc">Backend systems, full stack products, and applied AI. Two years of professional experience. Lahore, Pakistan.</desc>
+<rect width="1200" height="310" rx="20" fill="#0e0f11"/>
+<path d="M48 46h45" stroke="#ef965f" stroke-width="5"/>
+<text x="48" y="88" fill="#b3b4b6" font-family="monospace" font-size="15" letter-spacing="3">BACKEND · FULL STACK · APPLIED AI</text>
+<text x="45" y="157" fill="#eceae5" font-family="Arial, sans-serif" font-size="58" font-weight="700">Atif Mubashar</text>
+<text x="48" y="204" fill="#eceae5" font-family="Arial, sans-serif" font-size="25">Software built with care, from data model to interface.</text>
+<text x="48" y="264" fill="#b3b4b6" font-family="monospace" font-size="16">LAHORE, PK / UTC+5</text>
+<text x="752" y="264" fill="#ef965f" font-family="monospace" font-size="16">OPEN TO REMOTE &amp; FREELANCE</text>
+<circle cx="1095" cy="101" r="27" fill="none" stroke="#ef965f" stroke-width="2"/>
+<path d="M1082 101h26m-13-13v26" stroke="#ef965f" stroke-width="2"/>
+</svg>
